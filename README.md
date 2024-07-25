@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://raw.githubusercontent.com/MasterFlomaster1/MasterFlomaster1/master/resources/img1.jpg" alt="Hello world">
+
+![](https://komarev.com/ghpvc/?username=MasterFlomaster1&color=green&abbreviated=true)
 <!--
 **MasterFlomaster1/MasterFlomaster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
