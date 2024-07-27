@@ -20,3 +20,4 @@ jobs:
 
           plugin_habits: yes
           plugin_habits_charts: yes
+          plugin_habits_trim: yes
