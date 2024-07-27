@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MasterFlomaster1/MasterFlomaster1/master/resources/img1.jpg" alt="Hello world">
+![Metrics](/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=MasterFlomaster1&color=green&abbreviated=true)
 <!--
