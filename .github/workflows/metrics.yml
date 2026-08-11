@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
-          base: header, repositories
+          base: ""
 
           plugin_habits: yes
           # plugin_habits_from: 1000
