@@ -17,10 +17,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS }}
-
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
           config_timezone: Europe/Riga
+
+          # plugin_habits: yes
+          # plugin_habits_from: 1000
+          # plugin_habits_days: 30
+          # plugin_habits_charts: yes
+          # plugin_habits_trim: yes
